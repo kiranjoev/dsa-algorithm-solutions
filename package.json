@@ -1,0 +1,23 @@
+{
+  "name": "leet-code",
+  "version": "1.0.0",
+  "description": "Repo to manage source code of leetcode problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranjoev/leet-code.git"
+  },
+  "author": "Kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranjoev/leet-code/issues"
+  },
+  "homepage": "https://github.com/kiranjoev/leet-code#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "typescript": "^4.4.3"
+  }
+}
