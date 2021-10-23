@@ -13,4 +13,5 @@ This repo will host a series of DSA problems with their solutions.
 ## Currently learning
 * Graph traversal
     * Breadth First Search
+    * Depth First Search
 

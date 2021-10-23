@@ -1,3 +1,22 @@
+/**
+ * * * * * * * * * * * * * * 
+ * Linear Search modified  *
+ * * * * * * * * * * * * * *
+ * 
+ * Use two pointers 
+ *  - one from start and incremented
+ *  - second from end and decremented
+ * 
+ * Time Complexity
+ * 
+ * Best case scenario - O(1)
+ * When the element to be found is either first or last element
+ * 
+ * Worst case scenario - O(n/2)
+ * Since there are two pointers, the array is traversed in half the time
+ * And if the element is the middle element or if the element is not present in array, it takes only half the time
+ */
+
 (function () {
   let search = (nums: number[], target: number): number => {
     let length = nums.length;
